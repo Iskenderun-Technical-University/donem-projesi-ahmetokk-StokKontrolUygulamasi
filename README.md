@@ -2,3 +2,4 @@
 Stok kontrol uygulaması
 Stok giriş ve çıkışını mağazalar arası kontrol eden ayrıca başka mağazada stok var mı diye kontrol eden bir uygulama.
 Bir ürün oluşturup kaç stok geldiğini yazabileceğiz, kaç tane satın alındığını da göreceğiz ve mağazalar arası stok var mı diye kontrol edeceğiz. Her ürüne barkod gibi numaralardan oluşan bir id oluşturup sadece id'yi aratarak hangi mağazada stok var kolayca kontrol edebileceğiz. Bu projeyi seçmemin en büyük sebebi gerçek hayatta da çok aktif bir şekilde kullanılabilecek olması ve çok kolay başka projelere çevrilebilmesi.
+En az üç tane tablo kullanmayı planlıyorum: Çalışan bilgileri, ürün bilgileri ve mağaza bilgileri.
