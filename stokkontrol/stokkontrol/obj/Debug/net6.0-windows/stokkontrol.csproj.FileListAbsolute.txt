@@ -1,0 +1,17 @@
+C:\Users\Ahmet\Documents\GitHub\donem-projesi-ahmetokk-StokKontrolUygulamasi\stokkontrol\stokkontrol\bin\Debug\net6.0-windows\stokkontrol.exe
+C:\Users\Ahmet\Documents\GitHub\donem-projesi-ahmetokk-StokKontrolUygulamasi\stokkontrol\stokkontrol\bin\Debug\net6.0-windows\stokkontrol.deps.json
+C:\Users\Ahmet\Documents\GitHub\donem-projesi-ahmetokk-StokKontrolUygulamasi\stokkontrol\stokkontrol\bin\Debug\net6.0-windows\stokkontrol.runtimeconfig.json
+C:\Users\Ahmet\Documents\GitHub\donem-projesi-ahmetokk-StokKontrolUygulamasi\stokkontrol\stokkontrol\bin\Debug\net6.0-windows\stokkontrol.dll
+C:\Users\Ahmet\Documents\GitHub\donem-projesi-ahmetokk-StokKontrolUygulamasi\stokkontrol\stokkontrol\bin\Debug\net6.0-windows\stokkontrol.pdb
+C:\Users\Ahmet\Documents\GitHub\donem-projesi-ahmetokk-StokKontrolUygulamasi\stokkontrol\stokkontrol\obj\Debug\net6.0-windows\stokkontrol.csproj.AssemblyReference.cache
+C:\Users\Ahmet\Documents\GitHub\donem-projesi-ahmetokk-StokKontrolUygulamasi\stokkontrol\stokkontrol\obj\Debug\net6.0-windows\stokkontrol.Form1.resources
+C:\Users\Ahmet\Documents\GitHub\donem-projesi-ahmetokk-StokKontrolUygulamasi\stokkontrol\stokkontrol\obj\Debug\net6.0-windows\stokkontrol.csproj.GenerateResource.cache
+C:\Users\Ahmet\Documents\GitHub\donem-projesi-ahmetokk-StokKontrolUygulamasi\stokkontrol\stokkontrol\obj\Debug\net6.0-windows\stokkontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\Documents\GitHub\donem-projesi-ahmetokk-StokKontrolUygulamasi\stokkontrol\stokkontrol\obj\Debug\net6.0-windows\stokkontrol.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Documents\GitHub\donem-projesi-ahmetokk-StokKontrolUygulamasi\stokkontrol\stokkontrol\obj\Debug\net6.0-windows\stokkontrol.AssemblyInfo.cs
+C:\Users\Ahmet\Documents\GitHub\donem-projesi-ahmetokk-StokKontrolUygulamasi\stokkontrol\stokkontrol\obj\Debug\net6.0-windows\stokkontrol.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Documents\GitHub\donem-projesi-ahmetokk-StokKontrolUygulamasi\stokkontrol\stokkontrol\obj\Debug\net6.0-windows\stokkontrol.dll
+C:\Users\Ahmet\Documents\GitHub\donem-projesi-ahmetokk-StokKontrolUygulamasi\stokkontrol\stokkontrol\obj\Debug\net6.0-windows\refint\stokkontrol.dll
+C:\Users\Ahmet\Documents\GitHub\donem-projesi-ahmetokk-StokKontrolUygulamasi\stokkontrol\stokkontrol\obj\Debug\net6.0-windows\stokkontrol.pdb
+C:\Users\Ahmet\Documents\GitHub\donem-projesi-ahmetokk-StokKontrolUygulamasi\stokkontrol\stokkontrol\obj\Debug\net6.0-windows\stokkontrol.genruntimeconfig.cache
+C:\Users\Ahmet\Documents\GitHub\donem-projesi-ahmetokk-StokKontrolUygulamasi\stokkontrol\stokkontrol\obj\Debug\net6.0-windows\ref\stokkontrol.dll
