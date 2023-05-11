@@ -96,9 +96,9 @@
             // 
             this.panel1.Controls.Add(this.tableLayoutPanel1);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel1.Location = new System.Drawing.Point(0, 240);
+            this.panel1.Location = new System.Drawing.Point(0, 193);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(800, 210);
+            this.panel1.Size = new System.Drawing.Size(800, 257);
             this.panel1.TabIndex = 0;
             // 
             // tableLayoutPanel1
@@ -113,7 +113,7 @@
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 1;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(800, 210);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(800, 257);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // dataGridView1
@@ -124,29 +124,30 @@
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 29;
-            this.dataGridView1.Size = new System.Drawing.Size(394, 204);
+            this.dataGridView1.Size = new System.Drawing.Size(394, 251);
             this.dataGridView1.TabIndex = 0;
             // 
             // comboBox1
             // 
             this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(203, 188);
+            this.comboBox1.Location = new System.Drawing.Point(203, 159);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(151, 28);
             this.comboBox1.TabIndex = 1;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(503, 188);
+            this.button1.Location = new System.Drawing.Point(503, 158);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(94, 29);
             this.button1.TabIndex = 2;
             this.button1.Text = "button1";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(360, 188);
+            this.textBox1.Location = new System.Drawing.Point(360, 158);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(125, 27);
             this.textBox1.TabIndex = 3;
@@ -154,7 +155,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(203, 165);
+            this.label1.Location = new System.Drawing.Point(203, 126);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(83, 20);
             this.label1.TabIndex = 4;
@@ -163,7 +164,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(360, 165);
+            this.label2.Location = new System.Drawing.Point(360, 126);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(107, 20);
             this.label2.TabIndex = 5;
@@ -177,6 +178,7 @@
             this.button2.TabIndex = 6;
             this.button2.Text = "button2";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click_1);
             // 
             // Form1
             // 

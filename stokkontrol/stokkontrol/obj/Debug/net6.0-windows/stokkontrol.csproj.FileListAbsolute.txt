@@ -15,3 +15,4 @@ C:\Users\Ahmet\Documents\GitHub\donem-projesi-ahmetokk-StokKontrolUygulamasi\sto
 C:\Users\Ahmet\Documents\GitHub\donem-projesi-ahmetokk-StokKontrolUygulamasi\stokkontrol\stokkontrol\obj\Debug\net6.0-windows\stokkontrol.pdb
 C:\Users\Ahmet\Documents\GitHub\donem-projesi-ahmetokk-StokKontrolUygulamasi\stokkontrol\stokkontrol\obj\Debug\net6.0-windows\stokkontrol.genruntimeconfig.cache
 C:\Users\Ahmet\Documents\GitHub\donem-projesi-ahmetokk-StokKontrolUygulamasi\stokkontrol\stokkontrol\obj\Debug\net6.0-windows\ref\stokkontrol.dll
+C:\Users\Ahmet\Documents\GitHub\donem-projesi-ahmetokk-StokKontrolUygulamasi\stokkontrol\stokkontrol\obj\Debug\net6.0-windows\stokkontrol.Form2.resources
