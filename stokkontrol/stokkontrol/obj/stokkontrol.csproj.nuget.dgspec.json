@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ahmet\\Documents\\GitHub\\donem-projesi-ahmetokk-StokKontrolUygulamasi\\stokkontrol\\stokkontrol\\stokkontrol.csproj": {}
+    "C:\\Users\\Ahmet\\Documents\\GitHub\\donem-projesi-ahmetokk-StokKontrolUygulamasi\\StokKontrol\\stokkontrol\\stokkontrol.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ahmet\\Documents\\GitHub\\donem-projesi-ahmetokk-StokKontrolUygulamasi\\stokkontrol\\stokkontrol\\stokkontrol.csproj": {
+    "C:\\Users\\Ahmet\\Documents\\GitHub\\donem-projesi-ahmetokk-StokKontrolUygulamasi\\StokKontrol\\stokkontrol\\stokkontrol.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ahmet\\Documents\\GitHub\\donem-projesi-ahmetokk-StokKontrolUygulamasi\\stokkontrol\\stokkontrol\\stokkontrol.csproj",
+        "projectUniqueName": "C:\\Users\\Ahmet\\Documents\\GitHub\\donem-projesi-ahmetokk-StokKontrolUygulamasi\\StokKontrol\\stokkontrol\\stokkontrol.csproj",
         "projectName": "stokkontrol",
-        "projectPath": "C:\\Users\\Ahmet\\Documents\\GitHub\\donem-projesi-ahmetokk-StokKontrolUygulamasi\\stokkontrol\\stokkontrol\\stokkontrol.csproj",
+        "projectPath": "C:\\Users\\Ahmet\\Documents\\GitHub\\donem-projesi-ahmetokk-StokKontrolUygulamasi\\StokKontrol\\stokkontrol\\stokkontrol.csproj",
         "packagesPath": "C:\\Users\\Ahmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ahmet\\Documents\\GitHub\\donem-projesi-ahmetokk-StokKontrolUygulamasi\\stokkontrol\\stokkontrol\\obj\\",
+        "outputPath": "C:\\Users\\Ahmet\\Documents\\GitHub\\donem-projesi-ahmetokk-StokKontrolUygulamasi\\StokKontrol\\stokkontrol\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
