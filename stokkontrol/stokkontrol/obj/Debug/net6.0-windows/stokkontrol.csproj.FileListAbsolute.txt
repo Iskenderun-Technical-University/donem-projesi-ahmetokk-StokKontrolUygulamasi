@@ -20,3 +20,10 @@ C:\Users\Ahmet\Documents\GitHub\donem-projesi-ahmetokk-StokKontrolUygulamasi\Sto
 C:\Users\Ahmet\Documents\GitHub\donem-projesi-ahmetokk-StokKontrolUygulamasi\StokKontrol\stokkontrol\obj\Debug\net6.0-windows\stokkontrol.Form4.resources
 C:\Users\Ahmet\Documents\GitHub\donem-projesi-ahmetokk-StokKontrolUygulamasi\StokKontrol\stokkontrol\obj\Debug\net6.0-windows\stokkontrol.Form5.resources
 C:\Users\Ahmet\Documents\GitHub\donem-projesi-ahmetokk-StokKontrolUygulamasi\StokKontrol\stokkontrol\obj\Debug\net6.0-windows\stokkontrol.Form6.resources
+C:\Users\Ahmet\Documents\GitHub\donem-projesi-ahmetokk-StokKontrolUygulamasi\StokKontrol\stokkontrol\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Ahmet\Documents\GitHub\donem-projesi-ahmetokk-StokKontrolUygulamasi\StokKontrol\stokkontrol\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Ahmet\Documents\GitHub\donem-projesi-ahmetokk-StokKontrolUygulamasi\StokKontrol\stokkontrol\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Ahmet\Documents\GitHub\donem-projesi-ahmetokk-StokKontrolUygulamasi\StokKontrol\stokkontrol\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Ahmet\Documents\GitHub\donem-projesi-ahmetokk-StokKontrolUygulamasi\StokKontrol\stokkontrol\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ahmet\Documents\GitHub\donem-projesi-ahmetokk-StokKontrolUygulamasi\StokKontrol\stokkontrol\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ahmet\Documents\GitHub\donem-projesi-ahmetokk-StokKontrolUygulamasi\StokKontrol\stokkontrol\obj\Debug\net6.0-windows\stokkontrol.csproj.CopyComplete
