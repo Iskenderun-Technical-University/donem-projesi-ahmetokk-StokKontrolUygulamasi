@@ -43,21 +43,27 @@ namespace stokkontrol
                 SqlDataAdapter da = new SqlDataAdapter(komut);
                 da.Fill(dt);
 
+                int x = 0;
                 if (dt.Rows.Count>0)
                 {
+                    x = 1;
                     Form1 form1 = new Form1();
                     this.Hide();
                     form1.Show();
 
 
                 }
+                if (x!=1)
+                    MessageBox.Show("ID veya Şifre yanlış!!!");
+                
             }
 
 
             catch (Exception)
-            {
+            {  
                 MessageBox.Show("ID veya Şifre yanlış!!!");
             }
+            baglanti.Close();
         }
     }
 }
