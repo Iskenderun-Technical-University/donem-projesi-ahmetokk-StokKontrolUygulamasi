@@ -33,7 +33,6 @@
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.button10 = new System.Windows.Forms.Button();
             this.ımageList1 = new System.Windows.Forms.ImageList(this.components);
-            this.button4 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.tableLayoutPanel1.SuspendLayout();
@@ -45,7 +44,6 @@
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
             this.tableLayoutPanel1.Controls.Add(this.button10, 0, 1);
-            this.tableLayoutPanel1.Controls.Add(this.button4, 0, 1);
             this.tableLayoutPanel1.Controls.Add(this.button2, 1, 0);
             this.tableLayoutPanel1.Controls.Add(this.button1, 0, 0);
             this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -88,25 +86,6 @@
             this.ımageList1.Images.SetKeyName(2, "pngwing.com (5).png");
             this.ımageList1.Images.SetKeyName(3, "pngwing.com (4).png");
             this.ımageList1.Images.SetKeyName(4, "pngwing.com (3).png");
-            // 
-            // button4
-            // 
-            this.button4.BackColor = System.Drawing.SystemColors.Control;
-            this.button4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button4.FlatAppearance.BorderSize = 0;
-            this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button4.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.button4.ImageIndex = 0;
-            this.button4.ImageList = this.ımageList1;
-            this.button4.Location = new System.Drawing.Point(294, 280);
-            this.button4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(285, 269);
-            this.button4.TabIndex = 11;
-            this.button4.Text = "Geçmiş";
-            this.button4.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.button4.UseVisualStyleBackColor = false;
-            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button2
             // 
@@ -172,7 +151,6 @@
         private Button button7;
         private Button button6;
         private Button button5;
-        private Button button4;
         private Button button3;
         private Button button2;
         private Button button1;
